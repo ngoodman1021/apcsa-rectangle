@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class apcsa_rectangle {
 
-	public static viod main(String[] args){
+	public static void main(String[] args){
 	Scanner in = new Scanner(System.in);
 	
 		 System.out.print("\nEnter a length: ");
